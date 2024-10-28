@@ -1,5 +1,5 @@
 [package]
-name = "rish"
+name = "rishu"
 version = "0.0.0"
 edition = "2021"
 license = "MIT OR Apache-2.0"
@@ -7,6 +7,6 @@ authors = ["ArshiA Akhavan <letmemakenewone@gmail.com>"]
 description = "a shell like syntax for scripting in rust!"
 keywords = ["script", "shell", "bash", "sh"]
 categories = ["script", "shell", "bash"]
-repository = "https://github.com/ArshiAAkhavan/rish"
+repository = "https://github.com/ArshiAAkhavan/rishu"
 
 [dependencies]
